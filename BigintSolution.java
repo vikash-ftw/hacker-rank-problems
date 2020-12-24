@@ -34,7 +34,7 @@ public class BigintSolution {   // change class name to Solution
 
     public static String[] bigSorting(String[] unsorted) {
         
-        //invoking sort method and passing our own comparator logic
+        //invoking overloaded sort method and passing our own comparator logic
         Arrays.sort(unsorted, new MyCompareClass());
         return unsorted;
 
