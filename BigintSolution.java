@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.Comparator;
 import java.util.Scanner;
 
-public class BigintSolution {   // change class name to Solution
+public class BigSorting {   // change class name to Solution
 
 	 // defining my own compare class that will override compare logic
     static class MyCompareClass implements Comparator<String> {
