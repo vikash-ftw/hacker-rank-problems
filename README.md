@@ -1,3 +1,3 @@
-# HackerRankProblems
+# hacker-rank-problems 
 
-Solution of some hackerrank problems
+Solving & practising some hackerrank problems
